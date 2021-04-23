@@ -8,9 +8,19 @@ Created on Sat Jan 30 09:51:53 2021
 import random
 
 class Rock_Paper_Scissors:
+    """
+    Class for Rock Paper Scissors game
+    """
     
     def __init__(self, valid_input = [], Rock='Rock', Paper='Paper', Scissors='Scissors'):
-        
+        """
+
+        :param valid_input:
+        :param Rock:
+        :param Paper:
+        :param Scissors:
+        """
+
         self.Rock = Rock
         self.Paper = Paper
         self.Scissors = Scissors
@@ -23,7 +33,7 @@ class Rock_Paper_Scissors:
         
     def pick_one(self, players_choice):
         
-        # input is a playe's choice for Rock, Paper, Scissors game
+        # input is a player's choice for Rock, Paper, Scissors game
         self.players_choice = players_choice
         
         # throw an error in case the input is none of these 3 values

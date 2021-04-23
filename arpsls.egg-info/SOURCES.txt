@@ -1,0 +1,9 @@
+README.md
+setup.cfg
+setup.py
+arpsls/RockPaperScissorsLizardSpock.py
+arpsls.egg-info/PKG-INFO
+arpsls.egg-info/SOURCES.txt
+arpsls.egg-info/dependency_links.txt
+arpsls.egg-info/not-zip-safe
+arpsls.egg-info/top_level.txt
