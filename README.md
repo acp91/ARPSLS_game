@@ -31,7 +31,7 @@ where 'abc' should be replaced with one of the valid inputs
 
 # Images
 Steps for rock-paper-scissors
-[RPS_steps](https://github.com/acp91/ARPSLS_game/blob/master/images/RPS_steps.png)
+![RPS_steps](https://github.com/acp91/ARPSLS_game/blob/master/images/RPS_steps.png)
 
 Steps for rock-paper-scissors-lizard-spock
-[RPSLS_steps](https://github.com/acp91/ARPSLS_game/blob/master/images/RPSLS_steps.png)
+![RPSLS_steps](https://github.com/acp91/ARPSLS_game/blob/master/images/RPSLS_steps.png)
