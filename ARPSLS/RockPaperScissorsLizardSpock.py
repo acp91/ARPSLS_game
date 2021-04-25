@@ -88,7 +88,7 @@ class Rock_Paper_Scissors_Lizard_Spock(Rock_Paper_Scissors):
         elif self.players_choice == 'Paper' and self.computers_choice == 'Lizard':
             print ('You lost :( Computer chose ' + self.computers_choice + '. Lizard eats Paper')      
         elif self.players_choice == 'Paper' and self.computers_choice == 'Spock':
-            print ('You won! :) Computer chose ' + self.computers_choice + '. Paper covers Spock')           
+            print ('You won! :) Computer chose ' + self.computers_choice + '. Paper disproves Spock')
         # if you chose scissors
         elif self.players_choice == 'Scissors' and self.computers_choice == 'Lizard':
             print ('You won! :) Computer chose ' + self.computers_choice + '. Scissors decapitates Lizard')        
@@ -107,7 +107,7 @@ class Rock_Paper_Scissors_Lizard_Spock(Rock_Paper_Scissors):
         elif self.players_choice == 'Spock' and self.computers_choice == 'Rock':
             print ('You won! :) Computer chose ' + self.computers_choice + '. Spock vaporizes Rock')      
         elif self.players_choice == 'Spock' and self.computers_choice == 'Paper':
-            print ('You lost :( Computer chose ' + self.computers_choice + '. Paper covers Spock')
+            print ('You lost :( Computer chose ' + self.computers_choice + '. Paper disproves Spock')
         elif self.players_choice == 'Spock' and self.computers_choice == 'Scissors':
             print ('You won! :) Computer chose ' + self.computers_choice + '. Spock smashes Scissors')   
         elif self.players_choice == 'Spock' and self.computers_choice == 'Lizard':
