@@ -1,0 +1,10 @@
+LICENSE.txt
+README.md
+setup.cfg
+setup.py
+rpsls_game/RockPaperScissorsLizardSpock.py
+rpsls_game.egg-info/PKG-INFO
+rpsls_game.egg-info/SOURCES.txt
+rpsls_game.egg-info/dependency_links.txt
+rpsls_game.egg-info/not-zip-safe
+rpsls_game.egg-info/top_level.txt
